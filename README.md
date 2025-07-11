@@ -1,4 +1,3 @@
-
 #  Crowd Detection Using YOLOv8 and OpenCV
 
 This project implements an intelligent *Crowd Detection System* using a custom-trained **YOLOv8 model**. It identifies and tracks groups of people (crowds) in video footage based on spatial proximity and temporal persistence.
