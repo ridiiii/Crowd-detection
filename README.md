@@ -1,4 +1,3 @@
-# Crowd-detection
 
 #  Crowd Detection Using YOLOv8 and OpenCV
 
